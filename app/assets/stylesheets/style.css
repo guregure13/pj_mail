@@ -1,0 +1,9 @@
+body {
+    margin:0;
+    border:0;
+}
+.btn_mail{
+    display:flex;
+    justify-content: flex-end;
+    margin-right: 0px;
+}
